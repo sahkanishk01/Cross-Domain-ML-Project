@@ -1,4 +1,4 @@
-# Cross-Domain Generalization of ML Models
+# Cross-Domain Explainable ML Framework
 ### Trustworthy AI for Breast Cancer Histopathology and Phishing Website Detection
 
 This project builds a **unified machine learning framework** across two very different domains: medical image classification and cybersecurity tabular classification. Instead of solving only one dataset problem, the project studies how model behavior, explainability, and robustness transfer across domains using a CNN-based breast cancer detector and a Random Forest-based phishing detector.  
