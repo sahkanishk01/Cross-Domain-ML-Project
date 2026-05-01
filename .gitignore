@@ -14,12 +14,6 @@ ENV/
 .env
 *.env
 
-# Jupyter
-.ipynb_checkpoints/
-
-# Logs
-*.log
-
 # Build / packaging
 build/
 dist/
