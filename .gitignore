@@ -28,5 +28,6 @@ Thumbs.db
 .idea/
 
 # Project outputs
+outputs_phishing/
 runs/
 checkpoints/
